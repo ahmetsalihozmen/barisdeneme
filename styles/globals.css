@@ -1,0 +1,63 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  background: #d6d01f !important;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+
+.menucard{
+  border-radius: 30px;
+  background: #e5de1f;
+  box-shadow:  20px 20px 60px #c3bd1a,
+              -10px -10px 60px #ffff24;
+}
+
+
+.menucard:hover{
+  background: #000000 !important;
+  color: #e5de1f !important;
+}
+
+.but{
+  border-radius: 50px !important;
+  background: #ddd71e !important;
+  margin: 30px !important;
+  box-shadow:  20px 20px 60px #c3bd1a!important;
+  color: black !important;
+  border: none !important;
+  width: 100% !important;
+}
+
+.but:hover{
+  background: #000000 !important;
+  color: #e5de1f !important;
+}
+
+.link{
+  cursor: pointer !important;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.mainmenucard{
+  border-radius: 30px;
+  background: #e5de1f;
+  margin-top: 50px ;
+  box-shadow:  20px 20px 60px #c3bd1a,
+              -20px -20px 60px #ffff24;
+}
+
+
+.cmp{
+  color: #000000;
+}
